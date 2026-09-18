@@ -1,0 +1,42 @@
+body{
+  background-image: radial-gradient(#FFB8DF,#005F85);
+  margin: 22px;
+  padding: 33px;
+  min-height: 170vh;
+  max-width: 80vh;
+}
+
+h1{
+  text-align: center;
+  font-size: 43px;
+  color: #480101;
+}
+
+ol,ul{
+  text-align: left;
+  font-size: 19px;
+  color: #560719;
+  font-style: italic;
+}
+
+p,h3{
+  text-align: center;
+  font-size: 21px;
+  color: #FFCAD6;
+  font-style: italic;
+  font-family: monospace;
+}
+
+h2{
+  text-align: center;
+  font-size: 32px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #4E051F;
+}
+
+img{
+  margin: 22px;
+  padding: 11px;
+  max-height: 250px;
+  max-width: 250px;
+}
