@@ -6,10 +6,11 @@ body{
   max-width: 80vh;
 }
 
-h1{
+h1,a{
   text-align: center;
   font-size: 43px;
   color: #480101;
+  text-decoration: none;
 }
 
 ol,ul{
